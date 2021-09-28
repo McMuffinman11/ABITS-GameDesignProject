@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vyrid\\OneDrive\\Desktop\\Abits project\\Creative Name\\Creative Name\\Creative Name.csproj": {}
+    "C:\\Users\\Vyrid\\OneDrive\\Desktop\\TimeGame\\Creative Name\\Creative Name\\Creative Name.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vyrid\\OneDrive\\Desktop\\Abits project\\Creative Name\\Creative Name\\Creative Name.csproj": {
+    "C:\\Users\\Vyrid\\OneDrive\\Desktop\\TimeGame\\Creative Name\\Creative Name\\Creative Name.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\Abits project\\Creative Name\\Creative Name\\Creative Name.csproj",
+        "projectUniqueName": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\TimeGame\\Creative Name\\Creative Name\\Creative Name.csproj",
         "projectName": "Creative Name",
-        "projectPath": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\Abits project\\Creative Name\\Creative Name\\Creative Name.csproj",
+        "projectPath": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\TimeGame\\Creative Name\\Creative Name\\Creative Name.csproj",
         "packagesPath": "C:\\Users\\Vyrid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\Abits project\\Creative Name\\Creative Name\\obj\\",
+        "outputPath": "C:\\Users\\Vyrid\\OneDrive\\Desktop\\TimeGame\\Creative Name\\Creative Name\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vyrid\\AppData\\Roaming\\NuGet\\NuGet.Config",
