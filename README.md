@@ -1,2 +1,2 @@
-# ABITS-GameDesignProject
-ABITS first programming project
+# Time Game
+Start a clock. Stop a clock. Maybe have hats at some point.
