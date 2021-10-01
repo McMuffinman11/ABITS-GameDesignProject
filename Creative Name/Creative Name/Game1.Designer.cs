@@ -58,7 +58,7 @@ namespace Creative_Name
             // CurrentTimeLabel
             // 
             this.CurrentTimeLabel.AutoSize = true;
-            this.CurrentTimeLabel.Location = new System.Drawing.Point(324, 155);
+            this.CurrentTimeLabel.Location = new System.Drawing.Point(243, 155);
             this.CurrentTimeLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.CurrentTimeLabel.Name = "CurrentTimeLabel";
             this.CurrentTimeLabel.Size = new System.Drawing.Size(56, 67);
@@ -68,7 +68,7 @@ namespace Creative_Name
             // ScoreLabel
             // 
             this.ScoreLabel.AutoSize = true;
-            this.ScoreLabel.Location = new System.Drawing.Point(586, 305);
+            this.ScoreLabel.Location = new System.Drawing.Point(565, 303);
             this.ScoreLabel.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.ScoreLabel.Name = "ScoreLabel";
             this.ScoreLabel.Size = new System.Drawing.Size(56, 67);
@@ -78,7 +78,7 @@ namespace Creative_Name
             // ThisIsCTLabel
             // 
             this.ThisIsCTLabel.AutoSize = true;
-            this.ThisIsCTLabel.Location = new System.Drawing.Point(199, 69);
+            this.ThisIsCTLabel.Location = new System.Drawing.Point(126, 69);
             this.ThisIsCTLabel.Name = "ThisIsCTLabel";
             this.ThisIsCTLabel.Size = new System.Drawing.Size(325, 67);
             this.ThisIsCTLabel.TabIndex = 3;
@@ -96,7 +96,7 @@ namespace Creative_Name
             // BackgroundColorTimer
             // 
             this.BackgroundColorTimer.Enabled = true;
-            this.BackgroundColorTimer.Interval = 4000;
+            this.BackgroundColorTimer.Interval = 1200;
             this.BackgroundColorTimer.Tick += new System.EventHandler(this.BackgroundColorTimer_Tick);
             // 
             // Game1
