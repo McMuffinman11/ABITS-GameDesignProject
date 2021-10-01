@@ -29,6 +29,7 @@ namespace Creative_Name
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TitleScreen));
             this.PlayButton = new System.Windows.Forms.Button();
             this.ExitButton = new System.Windows.Forms.Button();
             this.SettingsButton = new System.Windows.Forms.Button();
@@ -70,18 +71,19 @@ namespace Creative_Name
             // TitleLabel
             // 
             this.TitleLabel.AutoSize = true;
-            this.TitleLabel.Location = new System.Drawing.Point(492, 86);
+            this.TitleLabel.Location = new System.Drawing.Point(370, 74);
             this.TitleLabel.Margin = new System.Windows.Forms.Padding(7, 0, 7, 0);
             this.TitleLabel.Name = "TitleLabel";
-            this.TitleLabel.Size = new System.Drawing.Size(84, 46);
+            this.TitleLabel.Size = new System.Drawing.Size(345, 72);
             this.TitleLabel.TabIndex = 3;
-            this.TitleLabel.Text = "Title";
+            this.TitleLabel.Text = "Time Game !!";
             // 
             // TitleScreen
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 45F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(29F, 71F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1118, 576);
             this.Controls.Add(this.TitleLabel);
             this.Controls.Add(this.SettingsButton);
@@ -91,6 +93,7 @@ namespace Creative_Name
             this.Margin = new System.Windows.Forms.Padding(7);
             this.Name = "TitleScreen";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.TitleScreen_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

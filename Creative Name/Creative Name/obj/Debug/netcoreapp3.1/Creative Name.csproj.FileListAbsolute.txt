@@ -32,3 +32,21 @@ C:\Users\Vyrid\OneDrive\Desktop\TimeGame\Creative Name\Creative Name\obj\Debug\n
 C:\Users\Vyrid\OneDrive\Desktop\TimeGame\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.dll
 C:\Users\Vyrid\OneDrive\Desktop\TimeGame\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.pdb
 C:\Users\Vyrid\OneDrive\Desktop\TimeGame\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.genruntimeconfig.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.exe
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.deps.json
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.runtimeconfig.json
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.runtimeconfig.dev.json
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.dll
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\bin\Debug\netcoreapp3.1\Creative Name.pdb
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.csproj.AssemblyReference.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative_Name.Game1.resources
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative_Name.TitleScreen.resources
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.csproj.GenerateResource.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.AssemblyInfoInputs.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.AssemblyInfo.cs
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.csproj.CoreCompileInputs.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.dll
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.pdb
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative Name.genruntimeconfig.cache
+C:\Users\zackfrey\Desktop\Time Game 6\Creative Name\Creative Name\obj\Debug\netcoreapp3.1\Creative_Name.Properties.Resources.resources

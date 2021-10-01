@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Vyrid\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Vyrid\\.nuget\\packages"
+      "C:\\Users\\zackfrey\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zackfrey\\.nuget\\packages"
     ]
   }
 }
