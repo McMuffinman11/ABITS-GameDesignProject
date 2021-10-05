@@ -13,11 +13,14 @@ namespace Weekly_Practice
     public partial class CalvinsGame : Form
     {
         string directionString = "right";
-        bool touchingFood;        
-        
+        bool touchingFood;
+
+
         public CalvinsGame()
         {
             InitializeComponent();
+            
+            
         }
 
         private void CalvinsGame_KeyDown(object sender, KeyEventArgs e)
@@ -43,6 +46,14 @@ namespace Weekly_Practice
 
         private void movementTimer_Tick(object sender, EventArgs e)
         {
+            var picture = new PictureBox
+            {
+                Name = "snakeBody1",
+                Size = new Size(25, 25),
+                Location = new Point(100, 100),
+                BackColor = Color.Red,
+            };
+
             switch (directionString)
             {
                 case "left":
@@ -63,8 +74,12 @@ namespace Weekly_Practice
             if(touchingFood == true)
             {
                 food.Visible = false;
+                food.Left = -40;
+                this.Controls.Add(picture);
             }
         }
+
+            
 
         private bool isTouchingFood()
         {
