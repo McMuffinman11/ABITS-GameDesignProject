@@ -41,7 +41,7 @@ namespace Weekly_Practice
             // snakeBase
             // 
             this.snakeBase.BackColor = System.Drawing.Color.Red;
-            this.snakeBase.Location = new System.Drawing.Point(252, 251);
+            this.snakeBase.Location = new System.Drawing.Point(84, 256);
             this.snakeBase.Name = "snakeBase";
             this.snakeBase.Size = new System.Drawing.Size(25, 25);
             this.snakeBase.TabIndex = 0;
