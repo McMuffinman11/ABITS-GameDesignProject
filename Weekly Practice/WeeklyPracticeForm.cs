@@ -27,5 +27,11 @@ namespace Weekly_Practice
         {
             this.Close();
         }
+
+        private void newButton_Click(object sender, EventArgs e)
+        {
+            CalvinsGame cg = new CalvinsGame();
+            cg.ShowDialog();
+        }
     }
 }
