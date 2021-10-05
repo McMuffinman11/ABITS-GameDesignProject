@@ -41,6 +41,11 @@ namespace Weekly_Practice
             {
                 directionString = "up";
             }
+
+            if(e.KeyCode == Keys.Y)
+            {
+                movementTimer.Stop();
+            }
         }
 
 
